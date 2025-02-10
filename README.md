@@ -64,7 +64,6 @@ streamlit run task3.py
 **ChatBot:** ChatBot: The concept of late capitalism (in German: Spätkapitalismus) was first used by the German social scientist Werner Sombart (1863-1941) in 1928, to describe the new capitalist order emerging at that time - with the claim, that it was the beginning of a new stage in the history of capitalism. As a young man, Sombart was a socialist who associated with Marxist intellectuals and the German social-democratic party.
 
 ## OUTPUT of chatbot:
- ![Image](https://github.com/user-attachments/assets/1bcf0d47-cbdd-4d66-95b7-b8af0005889c)
-
+![Image](https://github.com/user-attachments/assets/b8621624-e795-4a2d-89b8-2f3867f3f7e0)
 
 
